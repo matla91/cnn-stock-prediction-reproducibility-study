@@ -143,3 +143,38 @@ scientific outcomes**.
 1. Install dependencies:
    ```bash
    pip install yfinance numpy pandas matplotlib torch scikit-learn
+   ```
+2. Run the notebook:
+   ```bash
+   jupyter notebook
+   ```
+The notebook is fully self-contained and documents every step of the pipeline.
+
+---
+
+📌 Conclusion
+
+Under a strict, leakage-free, and temporally consistent evaluation protocol,
+the CNN architecture proposed by Gupta — including its full depth, normalization
+scheme, and capacity — does not exhibit meaningful predictive power for stock
+movement forecasting at the JPM T+30 horizon.
+
+This study highlights the importance of validation methodology over model
+complexity in financial machine learning research.
+
+---
+
+⚠️ Disclaimer
+
+This repository is an independent academic reproduction.
+All code and text are original.
+The original paper is cited for methodological reference only.
+
+---
+
+✉️ Contact
+
+If you have questions or want to discuss reproducibility, validation in finance,
+or ML methodology, feel free to open an issue or reach out.
+
+---
