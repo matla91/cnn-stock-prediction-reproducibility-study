@@ -178,6 +178,5 @@ If you have questions or want to discuss reproducibility, validation in finance,
 or ML methodology, feel free to open an issue or reach out.
 
 - **LinkedIn**: https://www.linkedin.com/in/matthis-lahargoue  
-- **Kaggle**: https://www.kaggle.com/matthislahargoue
 
 ---
